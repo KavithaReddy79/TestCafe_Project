@@ -1,0 +1,23 @@
+{
+  "name": "testcafe_project",
+  "version": "1.0.0",
+  "description": "Sample Project on TestCafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests/sampleTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KavithaReddy79/TestCafe_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KavithaReddy79/TestCafe_Project/issues"
+  },
+  "homepage": "https://github.com/KavithaReddy79/TestCafe_Project#readme",
+  "dependencies": {
+    "testcafe": "^2.5.0"
+  }
+}
