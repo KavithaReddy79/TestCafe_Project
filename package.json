@@ -4,7 +4,7 @@
   "description": "Sample Project on TestCafe",
   "main": "index.js",
   "scripts": {
-    "test": "testcafe chrome ./tests/sampleTest.js"
+    "test": "testcafe chrome ./tests/typeAndReplace.js"
   },
   "repository": {
     "type": "git",
